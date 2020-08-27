@@ -1,0 +1,17 @@
+commit 2513898b0d404a6e9c423863a618eef857836c3c
+Author: jackofalltrades-h <richarishabh33@gmail.com>
+Date:   Thu Aug 27 14:42:39 2020 +0530
+
+    added gitignore
+
+commit 0a24a1bd82a2b60b246ca0f5158e3274da6cc22a
+Author: jackofalltrades-h <richarishabh33@gmail.com>
+Date:   Wed Aug 26 15:14:37 2020 +0530
+
+    added two file
+
+commit 62cd4d2f2c6f76233f2309a592c0f00016668856
+Author: jackofalltrades-h <richarishabh33@gmail.com>
+Date:   Wed Aug 26 15:07:17 2020 +0530
+
+    added hi.txt
